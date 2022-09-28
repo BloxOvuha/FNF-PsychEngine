@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FrealdMenu.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dance0000" x="0" y="0" width="891" height="934"/>
+	<SubTexture name="Dance0001" x="891" y="0" width="891" height="934"/>
+	<SubTexture name="Dance0002" x="1782" y="0" width="891" height="934"/>
+	<SubTexture name="Dance0003" x="2673" y="0" width="891" height="934"/>
+	<SubTexture name="Dance0004" x="3564" y="0" width="891" height="934"/>
+	<SubTexture name="Dance0005" x="4455" y="0" width="891" height="934"/>
+	<SubTexture name="Dance0006" x="5346" y="0" width="891" height="934"/>
+	<SubTexture name="Dance0007" x="6237" y="0" width="891" height="934"/>
+	<SubTexture name="Dance0008" x="7128" y="0" width="891" height="934"/>
+	<SubTexture name="Dance0009" x="0" y="934" width="891" height="934"/>
+	<SubTexture name="Dance0010" x="891" y="934" width="891" height="934"/>
+	<SubTexture name="Dance0011" x="1782" y="934" width="891" height="934"/>
+	<SubTexture name="Dance0012" x="2673" y="934" width="891" height="934"/>
+	<SubTexture name="Dance0013" x="3564" y="934" width="891" height="934"/>
+	<SubTexture name="Dance0014" x="4455" y="934" width="891" height="934"/>
+	<SubTexture name="Dance0015" x="5346" y="934" width="891" height="934"/>
+	<SubTexture name="Dance0016" x="6237" y="934" width="891" height="934"/>
+	<SubTexture name="Dance0017" x="7128" y="934" width="891" height="934"/>
+	<SubTexture name="Dance0018" x="0" y="1868" width="891" height="934"/>
+	<SubTexture name="Dance0019" x="891" y="1868" width="891" height="934"/>
+	<SubTexture name="Dance0020" x="1782" y="1868" width="891" height="934"/>
+	<SubTexture name="Dance0021" x="2673" y="1868" width="891" height="934"/>
+	<SubTexture name="Dance0022" x="3564" y="1868" width="891" height="934"/>
+	<SubTexture name="Dance0023" x="4455" y="1868" width="891" height="934"/>
+	<SubTexture name="Dance0024" x="5346" y="1868" width="891" height="934"/>
+	<SubTexture name="Dance0025" x="6237" y="1868" width="891" height="934"/>
+	<SubTexture name="Dance0026" x="7128" y="1868" width="891" height="934"/>
+	<SubTexture name="Dance0027" x="0" y="2802" width="891" height="934"/>
+	<SubTexture name="Dance0028" x="891" y="2802" width="891" height="934"/>
+	<SubTexture name="Dance0029" x="1782" y="2802" width="891" height="934"/>
+	<SubTexture name="Dance0030" x="2673" y="2802" width="891" height="934"/>
+	<SubTexture name="Dance0031" x="3564" y="2802" width="891" height="934"/>
+	<SubTexture name="Dance0032" x="4455" y="2802" width="891" height="934"/>
+	<SubTexture name="Dance0033" x="5346" y="2802" width="891" height="934"/>
+	<SubTexture name="Dance0034" x="6237" y="2802" width="891" height="934"/>
+	<SubTexture name="Dance0035" x="7128" y="2802" width="891" height="934"/>
+	<SubTexture name="Dance0036" x="0" y="3736" width="891" height="934"/>
+	<SubTexture name="Dance0037" x="891" y="3736" width="891" height="934"/>
+</TextureAtlas>
